@@ -1,0 +1,74 @@
+
+/* Made by Marek_p for everyone :) */
+ 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap'); /* Import Fontu */
+
+
+*{ /* Všechny classy */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.home-section .home-content{ /* Content stránky */
+  position: relative;
+  padding: 20px;
+  align-items: center;
+}
+.home-section .home-content h1{ /* Všechny h1 */
+    color: #fff;
+    text-align: center;
+}
+.home-content .overview-boxes{ /* Seznam serverů */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0 20px;
+  margin-bottom: 26px;
+}
+.overview-boxes .box{ /* Box se serverem */
+  display: flex;
+  margin: 7px;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+  background: #fff;
+  padding: 15px 14px;
+  border-radius: 12px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+.overview-boxes .box-topic{ /* Info o serveru */
+  font-size: 20px;
+  font-weight: 500;
+}
+.home-content .box .name{ /* Jméno serveru */
+  display: inline-block;
+  font-size: 35px;
+  margin-top: -6px;
+  font-weight: 500;
+}
+.home-content .box .status1{ /* Server online ikona */
+    display: inline-block;
+    font-size: 32px;
+    height: 50px;
+    width: 50px;
+    background: #0d3073; /* Barva Pozadí online ikony */
+    line-height: 50px;
+    text-align: center;
+    color: #2bff00; /* Barva online ikony */
+    border-radius: 12px;
+    margin-top: -15px 0 0 6px;
+}
+.home-content .box .status0{ /* Server offline ikona */
+  display: inline-block;
+  font-size: 32px;
+  height: 50px;
+  width: 50px;
+  background: #0d3073; /* Barva Pozadí offline ikony */
+  line-height: 50px;
+  text-align: center;
+  color: #ff0000; /* Barva offline ikony */
+  border-radius: 12px;
+  margin-top: -15px 0 0 6px;
+}
