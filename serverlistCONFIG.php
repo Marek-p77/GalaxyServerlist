@@ -10,7 +10,7 @@ $name = "ServerList"; // Jméno stránky
 $cardname = "ServerList"; // Jméno karty v prohlížeči
 $color = "#0e1538"; // HEX Barva pozadí
 
-// Seznam Serverů
+// Seznam Serverů 
 $ip1 = 'hypixel.net'; // IP serveru 1
 $jmeno1 = 'Hypixel'; // Jméno serveru 1
 
