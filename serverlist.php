@@ -4,7 +4,7 @@
 <?php
 
 include ("serverlistCONFIG.php"); // Import souboru s nastavením
-
+ 
 ?>
 
 <html> 
