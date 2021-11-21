@@ -5,7 +5,7 @@
 
 //    Nastavení ServerListu
 
-// Obecné
+// Obecné Nastavení
 $name = "ServerList"; // Jméno stránky
 $cardname = "ServerList"; // Jméno karty v prohlížeči
 $color = "#0e1538"; // HEX Barva pozadí
