@@ -1,4 +1,4 @@
-# Easy MC Server List v1.0
+# 🧾️ Easy MC Server List v1.0
 
 ### 📄 Popis
 
