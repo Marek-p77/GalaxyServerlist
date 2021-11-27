@@ -5,7 +5,7 @@
 Velmi jednoduchý seznam minecraft serverů. Důkladně popsaný kód určený k úpravě a rozšíření. 
 Založeno na této API: https://api.mcsrvstat.us/
 
-Poznámka: Brzy vyjde nová verze, kód bude napsán od znova a efektivněji. Bude také podpora MySQL a admin panel pro správu serverů v serverlistu.
+Poznámka: Na začátku roku 2022 vyjde nová verze, kód bude napsán od znova a efektivněji. Bude také podpora MySQL a admin panel pro správu serverů v serverlistu.
 
 ### ⚒️ Použití
 
