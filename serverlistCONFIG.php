@@ -1,5 +1,5 @@
 
-<!-- Made by Marek_p for everyone :) -->
+<!-- Made by Marek_p for everyone -->
 
 <?php
 
