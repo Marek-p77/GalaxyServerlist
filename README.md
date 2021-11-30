@@ -1,4 +1,5 @@
-# 🧾️ Easy MC Server List v1.0
+# 🧾️ GalaxyServerlist v1.0
+Poznámka: Starý název: "Easy MC Serverlist"
 
 ### 📄 Popis
 
